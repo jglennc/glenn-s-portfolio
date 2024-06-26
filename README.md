@@ -1,9 +1,15 @@
 # glenn-s-portfolio
-Data Science / Data Analytics Portfolio
+## Data Science / Data Analytics Portfolio
 1. [Tracking User Engagement with SQL, Excel, and Python](#project-1-tracking-user-engagement-with-sql-excel-and-python)
 1. [Customer Segmentation in Marketing with Python](#project-2-customer-segmentation-in-marketing-with-python)
 1. [Scraping Rotten Tomatoes](#project-3-scraping-rotten-tomatoes)
+1. [Worldwide Sales Comparison Analysis Dashboard with PowerBI](#project-4-worldwide-sales-comparison-analysis-dashboard-with-powerbi)
 
+
+## Web Development
+1. [Commerce Website](#project-1-commerce-website)
+
+# Data Science / Data Analytics Portfolio
 # [Project 1: Tracking User Engagement with SQL, Excel, and Python](https://github.com/jglennc/customer-segmentation-in-marketing-with-python)
 
 ## Case Description
@@ -209,4 +215,11 @@ The scraped data is exported to these files:
 
 * movies_info.xlsx
 
+# Project 4: Worldwide Sales Comparison Analysis Dashboard with PowerBI
+![](/images/worldwide_sales_comparison_analysis_dashboard.png)
 
+## Demo Video:
+https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing
+
+# Web Development
+# [Project 1: Commerce Website](https://github.com/jglennc/cs50_web_project_2)
