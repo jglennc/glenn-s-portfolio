@@ -204,7 +204,6 @@ Data to be scraped:
 
 ## Outcome
 
-
 dataframe containing scraped data:
 
 ![](/images/scraped_dataframe.png)
@@ -219,7 +218,35 @@ The scraped data is exported to these files:
 ![](/images/worldwide_sales_comparison_analysis_dashboard.png)
 
 ## Demo Video:
-https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing
+![](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
+
+# [Project 5: Global Sales Analysis Dasboard with PowerBI]
+## Dashboard
+![](/images/global-sales-analysis_dashboard.png)
+
+## Tootlip for the map visual
+![](/images/global-sales-analysis_tooltip.png)
+
+## Demo Video:
+Still in progress!!!
 
 # Web Development
 # [Project 1: Commerce Website](https://github.com/jglennc/cs50_web_project_2)
+### Case Description
+In this project, I design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”
+
+![](/images/commerce_index_not_signed_in.png)
+
+
+![](/images/commerce_listing.png)
+
+### Project requirements
+* Python version: Python v.3
+
+* Frameworks:
+
+    * Django
+    * Bootstrap
+
+## Demo Video:
+Still in progress!!!
