@@ -104,7 +104,7 @@ Are there any **geographical locations** where most of our students discover the
 
 In this project, I am working with customer data to perform market segmentation—crucial for businesses to understand customer behavior and improve marketing efficiency. The project will involve **data preprocessing, exploratory data analysis (EDA), feature engineering, implementation of clustering algorithms, and interpretation of results**. Two popular clustering techniques are used: **k-means and hierarchical clustering**.
 
-In this project, I delved into the diversity of customer behavior and identify distinct segments that could be targeted with **personalized marketing strategies**.
+In this project, I explored the diversity of customer's behavior and identify distinct segments that could be targeted with **personalized marketing strategies**.
 
 ## Project requirements
 * Python version: Python v.3
@@ -135,6 +135,7 @@ Based on hierarchical clustering and k-means, I identified 8 clusters, and named
 * Facebook Followers
 
 ### Conclusions
+![](/images/hierarchical.png)
 ![](/images/analysis.png)
 ![](/images/segmentation_k_means.png)
 Based on the grouped aggregated values I was able to draw these conslusions:
