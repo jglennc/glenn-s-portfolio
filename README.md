@@ -219,13 +219,15 @@ The scraped data is exported to these files:
 ![](/images/worldwide_sales_comparison_analysis_dashboard.png)
 
 ## Demo Video:
-![](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
+[https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 
 # [Project 5: Global Sales Analysis Dasboard with PowerBI]
 ## Dashboard
 ![](/images/global-sales-analysis_dashboard.png)
 
 ## Tootlip for the map visual
+![alt text](image.png)
+
 ![](/images/global-sales-analysis_tooltip.png)
 
 ## Demo Video:
