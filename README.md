@@ -219,6 +219,7 @@ The scraped data is exported to these files:
 ![](/images/worldwide_sales_comparison_analysis_dashboard.png)
 
 ## Demo Video:
+[![](/images/worldwide_sales_comparison_analysis_thumbnail.png)](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 [https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 
 # [Project 5: Global Sales Analysis Dasboard with PowerBI]
@@ -226,12 +227,15 @@ The scraped data is exported to these files:
 ![](/images/global-sales-analysis_dashboard.png)
 
 ## Tootlip for the map visual
-![alt text](image.png)
+![](image.png)
 
 ![](/images/global-sales-analysis_tooltip.png)
 
 ## Demo Video:
 Still in progress!!!
+
+# [Project 6: Global Superstore Orders and Returns Dasboard with PowerBI]
+![](/images/global-superstore-orders-and-returns_dashboard.png)
 
 # Web Development
 # [Project 1: Commerce Website](https://github.com/jglennc/cs50_web_project_2)
@@ -252,4 +256,5 @@ In this project, I design an eBay-like e-commerce auction site that will allow u
     * Bootstrap
 
 ## Demo Video:
-Still in progress!!!
+[![](/images//commerce-thumbnail.png)](https://drive.google.com/file/d/1_O1AjTASiXjF8CNHOYsk0Npkw8bOyak5/view?usp=sharing)
+[https://drive.google.com/file/d/1_O1AjTASiXjF8CNHOYsk0Npkw8bOyak5/view?usp=sharing](https://drive.google.com/file/d/1_O1AjTASiXjF8CNHOYsk0Npkw8bOyak5/view?usp=sharing)
