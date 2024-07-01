@@ -4,10 +4,14 @@
 1. [Customer Segmentation in Marketing with Python](#project-2-customer-segmentation-in-marketing-with-python)
 1. [Scraping Rotten Tomatoes](#project-3-scraping-rotten-tomatoes)
 1. [Worldwide Sales Comparison Analysis Dashboard with PowerBI](#project-4-worldwide-sales-comparison-analysis-dashboard-with-powerbi)
+    * [Click here to see video demo!](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
+1. [Global Sales Analysis Dasboard with PowerBI](#project-5-global-sales-analysis-dasboard-with-powerbi)
+    * [Click here to see video demo!](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
 
 
 ## Web Development
 1. [Commerce Website](#project-1-commerce-website)
+    * [Click here to see video demo!](https://drive.google.com/file/d/1_O1AjTASiXjF8CNHOYsk0Npkw8bOyak5/view?usp=sharing)
 
 # Data Science / Data Analytics Portfolio
 # [Project 1: Tracking User Engagement with SQL, Excel, and Python](https://github.com/jglennc/customer-segmentation-in-marketing-with-python)
@@ -222,20 +226,18 @@ The scraped data is exported to these files:
 [![](/images/worldwide_sales_comparison_analysis_thumbnail.png)](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 [https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 
-# [Project 5: Global Sales Analysis Dasboard with PowerBI]
+# Project 5: Global Sales Analysis Dasboard with PowerBI
 ## Dashboard
 ![](/images/global-sales-analysis_dashboard.png)
 
 ## Tootlip for the map visual
-![](image.png)
+![](/images/global-sales-analysis_tooltip_dashboard.png)
 
 ![](/images/global-sales-analysis_tooltip.png)
 
 ## Demo Video:
-Still in progress!!!
-
-# [Project 6: Global Superstore Orders and Returns Dasboard with PowerBI]
-![](/images/global-superstore-orders-and-returns_dashboard.png)
+[![](/images/global-sales-analysis_thumbnail.png)](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
+[https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
 
 # Web Development
 # [Project 1: Commerce Website](https://github.com/jglennc/cs50_web_project_2)
