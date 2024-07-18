@@ -14,7 +14,7 @@
     * [Click here to see video demo!](https://drive.google.com/file/d/1_O1AjTASiXjF8CNHOYsk0Npkw8bOyak5/view?usp=sharing)
 
 # Data Science / Data Analytics Portfolio
-# [Project 1: Tracking User Engagement with SQL, Excel, and Python](https://github.com/jglennc/customer-segmentation-in-marketing-with-python)
+# [Project 1: Tracking User Engagement with SQL, Excel, and Python](https://github.com/jglennc/tracking-user-engagement-with-sql-excel-and-python)
 
 ## Case Description
 **Background:** The project requires you to analyze whether the new additions to the platform (new courses, exams, and career tracks) have increased student engagement.
@@ -98,7 +98,7 @@ I **split** the data into **train and tests** sets with a test size of **20%**.
 
     These couple of interpretations will be the base for **determining the needed additional input variables** for **improving the model**
 
-# [Project 2: Customer Segmentation in Marketing with Python](https://github.com/jglennc/tracking-user-engagement-with-sql-excel-and-python)
+# [Project 2: Customer Segmentation in Marketing with Python](https://github.com/jglennc/customer-segmentation-in-marketing-with-python)
 
 ## Case Description
 
