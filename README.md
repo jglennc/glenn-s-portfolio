@@ -242,8 +242,10 @@ The scraped data is exported to these files:
 
 # Project 6: Global Superstore Orders and Returns Dasboard with PowerBI
 ## Dashboard
+### Returns View
 ![](/images/global-superstore-orders-and-returns_dashboard-returns.png)
 
+### Sales View
 ![](/images/global-superstore-orders-and-returns-dashboard-sales.png)
 
 # Web Development
