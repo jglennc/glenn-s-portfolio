@@ -7,6 +7,7 @@
     * [Click here to see video demo!](https://drive.google.com/file/d/1m8g-WKXVfqNAnvxzs9WPGVoBdnwGgb6F/view?usp=sharing)
 1. [Global Sales Analysis Dasboard with PowerBI](#project-5-global-sales-analysis-dasboard-with-powerbi)
     * [Click here to see video demo!](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
+1. [Global Superstore Orders and Returns Dasboard with PowerBI](#project-6-global-superstore-orders-and-returns-dasboard-with-powerbi)
 
 
 ## Web Development
@@ -239,13 +240,20 @@ The scraped data is exported to these files:
 [![](/images/global-sales-analysis_thumbnail.png)](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
 [https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing](https://drive.google.com/file/d/1Ho5UWuDPZTcu-b-TgbNPGuJ0hldUFcaz/view?usp=sharing)
 
+# Project 6: Global Superstore Orders and Returns Dasboard with PowerBI
+## Dashboard
+### Returns View
+![](/images/global-superstore-orders-and-returns_dashboard-returns.png)
+
+### Sales View
+![](/images/global-superstore-orders-and-returns-dashboard-sales.png)
+
 # Web Development
 # [Project 1: Commerce Website](https://github.com/jglennc/cs50_web_project_2)
 ### Case Description
 In this project, I design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”
 
 ![](/images/commerce_index_not_signed_in.png)
-
 
 ![](/images/commerce_listing.png)
 
